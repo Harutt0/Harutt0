@@ -8,9 +8,9 @@ I am a developer focused on the intersection of **Artificial Intelligence** and 
 
 ### 🚀Technical Toolbox
 
-* ** Python:** AI/ML Models, Security Automation, Neural Networks.
-* ** Java:** Secure Enterprise Applications, Robust Backend Systems.
-* ** C++:** System-Level Security, Performance-Critical Tools, Malware Analysis.
+* Python: AI/ML Models, Security Automation, Neural Networks.
+* Java: Secure Enterprise Applications, Robust Backend Systems.
+* C++: System-Level Security, Performance-Critical Tools, Malware Analysis.
 
 ---
 
