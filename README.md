@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there!👋
 
-<!--
-**Harutt0/Harutt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ AI & Cyber Security Developer | 💻 Custom App Specialist
 
-Here are some ideas to get you started:
+I am a developer focused on the intersection of **Artificial Intelligence** and **Cyber Security**. I build intelligent systems to detect threats and develop secure, high-performance applications tailored to client needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Toolbox
+
+* ** Python:** AI/ML Models, Security Automation, Neural Networks.
+* ** Java:** Secure Enterprise Applications, Robust Backend Systems.
+* ** C++:** System-Level Security, Performance-Critical Tools, Malware Analysis.
+
+---
+
+### 🛠️ What I Offer
+* **AI-Powered Security:** Developing smart algorithms for anomaly detection and threat intelligence.
+* **Custom Software Development:** Transforming your ideas into secure, functional, and scalable applications.
+* **Secure Coding:** Building projects with a "Security-First" mindset to ensure data integrity.
+
+---
+
+### 🤝 Let's Work Together!
+I am currently **open to custom application projects** and freelance collaborations. If you have a project in mind, let’s make it happen!
+
+* 📸Instagram: https://www.instagram.com/haru.tt0/
