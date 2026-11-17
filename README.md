@@ -1,27 +1,52 @@
-# Hi there! 👋
+# Hey, I'm Harutyun Khazazyan 👋
 
-### 🛡️ AI & Cyber Security Developer | 💻 Custom App Specialist
+### Independent Software Developer | Building Software & Exploring Technology
 
-I am a developer focused on the intersection of **Artificial Intelligence** and **Cyber Security**. I build intelligent systems to detect threats and develop secure, high-performance applications tailored to client needs.
+I'm an independent software developer passionate about building useful software, solving problems, and exploring new technologies.
 
----
+My main interests are **Cybersecurity, Artificial Intelligence, and Software Engineering**.
 
-### 🚀 Technical Toolbox
-
-* Python: AI/ML Models, Security Automation, Neural Networks.
-* Java: Secure Enterprise Applications, Robust Backend Systems.
-* C++: System-Level Security, Performance-Critical Tools, Malware Analysis.
+I believe in learning by building, experimenting with ideas, and turning them into real-world products.
 
 ---
 
-### 🛠️ What I Offer
-* **AI-Powered Security:** Developing smart algorithms for anomaly detection and threat intelligence.
-* **Custom Software Development:** Transforming your ideas into secure, functional, and scalable applications.
-* **Secure Coding:** Building projects with a "Security-First" mindset to ensure data integrity.
+### 🚀 What I'm Interested In
+
+- 🔐 Cybersecurity & Application Security
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Engineering
+- 🌐 Web Development
+- ⚙️ System Programming & Low-Level Development
+
+### 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+`Python` · `Java` · `C` · `C++` · `Assembly`
+
+**Web Technologies**
+
+`HTML` · `CSS` · `JavaScript`
+
+### 📌 What I'm Currently Doing
+
+- Building independent software projects.
+- Exploring cybersecurity and AI technologies.
+- Improving my software engineering skills.
+- Turning ideas into useful products.
+
+### 🌐 Find Me Around the Web
+
+- **GitHub:** You're already here!
+- - **X:** [Follow me](https://x.com/haru_tt0)
+- **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harutyun-k-196203415/))
+- **YouTube:** [Watch my projects]([YOUR_YOUTUBE_URL](https://www.youtube.com/@Haru.tt0))
+- **Instagram:** [Follow my journey]([YOUR_INSTAGRAM_URL](https://www.instagram.com/haru.tt0/))
 
 ---
 
-### 🤝 Let's Work Together!
-I am currently **open to custom application projects** and freelance collaborations. If you have a project in mind, let’s make it happen!
+### 💡 My Philosophy
 
-* 📸 Instagram: https://www.instagram.com/haru.tt0/
+> Learn continuously. Build fearlessly. Create things that matter.
+
+Thanks for visiting my profile! 🚀
